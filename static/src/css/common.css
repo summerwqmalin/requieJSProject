@@ -1,0 +1,6 @@
+@import url(bootstrap/css/bootstrap.css);/* 引入boostrap 相关样式 */
+@import url(bootstrap/css/bootstrap-fixed-width.css);
+@import url(font-awesome/css/font-awesome.min.css);
+@import url(../js/lib/loading/css/showLoading.css);/* 引入loadding相关样式 */
+
+/* 相关公共样式定义在这里 */

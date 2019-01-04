@@ -1,0 +1,11 @@
+{
+	"name": "requireJS",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"package": "node static/r.js -o static/app.build.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
